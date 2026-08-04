@@ -14,7 +14,7 @@ Acredito que o bom design não é apenas sobre a aparência visual, mas sobre co
 
 ### 💼 Projetos em Destaque
 
-*   **[Meu Portfólio de Product Design](https://product-designer-portfolio-mu.vercel.app/)** — Um projeto Next.js/TypeScript onde não apenas projetei, mas implementei meu portfólio usando animações GSAP e layouts responsivos avançados.
+*   **[Meu Portfólio de Product Design](https://leticiaalmeida.design)** — Um projeto Next.js/TypeScript onde não apenas projetei, mas implementei meu portfólio usando animações GSAP e layouts responsivos avançados.
 *   **[GeckoVision Daily News Bot](https://github.com/leticiaalmeida-prod/daily-news)** — Colaboração na estruturação da experiência do usuário e arquitetura de informação de um agente de notícias matinais no Telegram.
 
 ### 🔗 Vamos conectar!
